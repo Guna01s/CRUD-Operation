@@ -107,7 +107,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+**Contributions are welcome! If you'd like to contribute to this project, please follow these steps:**
 
 - Fork the repository.
 - Create a new branch for your feature or bug fix.
@@ -117,4 +117,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
   
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+**Free** for your use.
